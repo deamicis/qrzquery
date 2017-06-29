@@ -49,3 +49,7 @@ crashlytics-build.properties
 fabric.properties
 
 dependency-reduced-pom.xml
+
+config.properties
+src/test/
+target/
