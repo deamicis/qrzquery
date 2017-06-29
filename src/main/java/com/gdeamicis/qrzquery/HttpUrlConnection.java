@@ -1,4 +1,4 @@
-package com.gdeamicis.qrzsearch;
+package com.gdeamicis.qrzquery;
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;

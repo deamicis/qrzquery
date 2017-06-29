@@ -1,3 +1,2 @@
 Manifest-Version: 1.0
-Main-Class: com.gdeamicis.qrzsearch.QrzSearch
-
+Main-Class: com.gdeamicis.qrzquery.QrzSearch
